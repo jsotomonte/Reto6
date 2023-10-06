@@ -181,3 +181,45 @@ print(f"Perímetro del rectángulo: {perimetro_rectangulo(altura_rectangulo, lar
 5. Finalmente, se imprimen los resultados en la pantalla utilziando la función **print**, mostrando el área y el perímetro de la circunferencia, así como el área y el perímetro del rectangulo.
 ### Punto 2.2
 + Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado `r`, `a` y `b`.
+
+# PUNTO 9
+1. Módulos mas conocidos que se pueden instalar con PIP:
+```
+pip install numpy
+```
+2. Pandas: Biblioteca para análisis de datos en Python.
+```
+pip install pandas
+```
+3. Matplotlib: Biblioteca para crear gráficos y visualizaciones.
+```
+pip install matplotlib
+```
+4.Requests: Biblioteca para realizar solicitudes HTTP en Python.
+```
+pip install requests
+```
+5. Django: Un popular framework web de Python.
+```
+pip install django
+```
+6.Flask: Otro framework web de Python, ligero y flexible.
+```
+pip install flask
+```
+7. TensorFlow: Biblioteca de código abierto para aprendizaje automático y redes neuronales.
+```
+pip install tensorflow
+```
+8. PyTorch: Biblioteca de aprendizaje profundo ampliamente utilizada.
+```
+pip install torch
+```
+9. Scikit-learn: Biblioteca para aprendizaje automático y minería de datos.
+```
+pip install scikit-learn
+```
+10. Beautiful Soup: Biblioteca para analizar documentos HTML y XML.
+```
+pip install beautifulsoup4
+```
