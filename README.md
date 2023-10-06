@@ -184,16 +184,16 @@ print(f"Perímetro del rectángulo: {perimetro_rectangulo(altura_rectangulo, lar
 
 
 #  PUNTO #9
-Consultar qué es y cómo funciona pip en python:
-- PIP en Python es como una tienda de aplicaciones para tu código, donde se puede:
+#  Consultar qué es y cómo funciona pip en python:
+PIP en Python es como una tienda de aplicaciones para tu código, donde se puede:
 
-Descarga de Paquetes: PIP te permite buscar y descargar paquetes de Python desde Internet, como descargar aplicaciones en tu teléfono.
+-Descarga de Paquetes: PIP te permite buscar y descargar paquetes de Python desde Internet, como descargar aplicaciones en tu teléfono.
 
-Instalación de Paquetes: Después de descargar un paquete, PIP lo coloca en tu computadora para que puedas usarlo en tu código. Es como instalar una aplicación en tu teléfono.
+-Instalación de Paquetes: Después de descargar un paquete, PIP lo coloca en tu computadora para que puedas usarlo en tu código. Es como instalar una aplicación en tu teléfono.
 
-Actualización de Paquetes: PIP también puede actualizar tus paquetes para asegurarte de que tengas las últimas versiones.
+-Actualización de Paquetes: PIP también puede actualizar tus paquetes para asegurarte de que tengas las últimas versiones.
 
-Eliminar Paquetes: Si ya no necesitas un paquete, PIP te ayuda a eliminarlo de tu computadora, como desinstalar una aplicación en tu teléfono.
+-Eliminar Paquetes: Si ya no necesitas un paquete, PIP te ayuda a eliminarlo de tu computadora, como desinstalar una aplicación en tu teléfono.
 
 
 # PUNTO 10
