@@ -182,7 +182,8 @@ print(f"Perímetro del rectángulo: {perimetro_rectangulo(altura_rectangulo, lar
 ### Punto 2.2
 + Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado `r`, `a` y `b`.
 
-# PUNTO 9
+# PUNTO 10
+#   Recuerdar que se debe ejecutar estos comandos en tu terminal de acuerdo con el módulo específico que deseas instalar.
 1. Módulos mas conocidos que se pueden instalar con PIP:
 ```
 pip install numpy
